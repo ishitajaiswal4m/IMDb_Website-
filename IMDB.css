@@ -1,0 +1,71 @@
+body {
+	background-color: black;
+}
+#mybutton{
+	color:#e1ad01;
+	font-size: 20px;
+}
+.yelofont{
+	color:#e1ad01;
+	font-family: 'Lato', sans-serif;
+}
+.vitefont{
+	color:white;
+	font-family: 'Baloo Thambi 2', cursive;
+
+}
+.verticalLine {
+  border-left: thick solid #e1ad01;
+  border-radius: 3px;
+}
+#lightfont{
+	color:white;
+	font-size:2px;
+}
+.imagefit{
+	border-radius: 3px;
+	max-width: 200px;
+	max-height:140px;
+}
+.prime{
+	font-family: 'Barlow Condensed', sans-serif;
+	color:#e1ad01;
+}
+.thinverticalline{
+	border-left: thin solid #e1ad01;
+
+}
+.newwhite{
+	font-family: 'Barlow Condensed', sans-serif;
+	color:white;
+}
+.lightfont2{
+	color:white;
+	font-size:2px;
+}
+.rounded_image {
+	
+	border-radius: 50%;
+	max-height: 70px;
+	max-width: 150px;
+	
+}
+.squared_image{
+	max-height: 70px;
+	max-width: 150px;
+	border-radius: 2px;
+}
+.maxwdiv{
+	max-width: 200px;
+}
+.syelofont{
+	font-size: 2px;
+	color:#e1ad01;
+}
+.icon{
+	color:white;
+}
+.link{
+	font-size: 3px;
+	color:white;
+}
